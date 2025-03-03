@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953239266901",
+    "project_id": "attendeasy-6d238",
+    "storage_bucket": "attendeasy-6d238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953239266901:android:04318221a2cf18959d16dc",
+        "android_client_info": {
+          "package_name": "com.example.attend_easy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK09CPJ0sQkSD-eTm8gcQYSFvOXhLDv-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
